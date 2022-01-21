@@ -1,0 +1,25 @@
+.panda-slider{
+background-color: #fceae8;
+padding: 20px;
+}
+.panda-price-color{
+  color: #FF136F;
+}
+.panda-slider-baton{
+background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+   
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.panda-calagition img{
+width: 100px;
+}
+.panda-calagition-bod{
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+}
+.card-panda-boder{
+box-shadow: 5px 5px 15px lightgray;
+border-radius: 10px;
+}
